@@ -23,7 +23,7 @@
 		"@smui/radio": "^5.0.0-beta.5",
 		"@smui/select": "^5.0.0-beta.5",
 		"@smui/textfield": "^5.0.0-beta.5",
-		"@smui/top-app-bar": "^5.0.0-beta.5",
+		"@smui/top-app-bar": "^4.2.0",
 		"@sveltejs/kit": "next",
 		"@typescript-eslint/eslint-plugin": "^4.31.1",
 		"@typescript-eslint/parser": "^4.31.1",

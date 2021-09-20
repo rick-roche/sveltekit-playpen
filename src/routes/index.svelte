@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { mdiAccount, mdiSpotify } from '@mdi/js';
+	import { mdiSpotify } from '@mdi/js';
 
 	import Radio from '@smui/radio';
 	import FormField from '@smui/form-field';

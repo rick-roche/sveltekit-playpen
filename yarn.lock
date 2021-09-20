@@ -438,6 +438,14 @@
     "@smui/common" "^5.0.0-beta.5"
     svelte2tsx "^0.4.6"
 
+"@smui/common@^4.2.0":
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/@smui/common/-/common-4.2.0.tgz#81ddb9d5b9a39cc814188fa18834301261b9ea9e"
+  integrity sha512-ersYpoqvb0hGP2lFdOtNlue5m74H/eOEtpbb5r4Sk8lmwaDh+Gj8xbX93AAE2Jfq/p6XcEmHB6CsGoATi5JHOQ==
+  dependencies:
+    "@material/dom" "^11.0.0"
+    svelte "^3.35.0"
+
 "@smui/common@^5.0.0-beta.5":
   version "5.0.0-beta.5"
   resolved "https://registry.yarnpkg.com/@smui/common/-/common-5.0.0-beta.5.tgz#db6b58908ca2788120ea4c315139a63e6ea0126e"
@@ -601,15 +609,14 @@
     "@smui/ripple" "^5.0.0-beta.5"
     svelte2tsx "^0.4.6"
 
-"@smui/top-app-bar@^5.0.0-beta.5":
-  version "5.0.0-beta.5"
-  resolved "https://registry.yarnpkg.com/@smui/top-app-bar/-/top-app-bar-5.0.0-beta.5.tgz#e4862ea5170e914519a3400da73e1e5220075720"
-  integrity sha512-YdXU+YZnsrndRZ8GI4c5g3VjdZKNP2BlR1AHwvkA5mzv5Rvc8o72mVNALVoWQXBKuZsNMbiv6qUVb0Wc4jrGkg==
+"@smui/top-app-bar@^4.2.0":
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/@smui/top-app-bar/-/top-app-bar-4.2.0.tgz#41e9ed1481b434ae5bbb00e5dc349711bca702a9"
+  integrity sha512-4BBFVPcBZL74tfFIZpma/bd9m4j9cNOkTGFIeucEiudOxy+EHvrur8RNiJIoeSIzW2SDxrpYQuJsnMd25hCyPQ==
   dependencies:
     "@material/feature-targeting" "^11.0.0"
     "@material/top-app-bar" "^11.0.0"
-    "@smui/common" "^5.0.0-beta.5"
-    svelte2tsx "^0.4.6"
+    "@smui/common" "^4.2.0"
 
 "@sveltejs/kit@next":
   version "1.0.0-next.169"
