@@ -36,3 +36,15 @@ npm run build
 ```
 
 > You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+
+## Adding Svelte Material UI
+
+yarn add --dev smui-theme @smui/button @smui/icon-button @smui/textfield @smui/select @smui/radio @smui/form-field @smui/icon-button @smui/top-app-bar @smui/circular-progress @smui/layout-grid @mdi/js
+
+npx smui-theme template src/theme
+
+yarn
+yarn run format
+yarn run prepare
+
+yarn run dev
